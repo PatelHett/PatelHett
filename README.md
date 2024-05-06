@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img align = "center" alt = "coding" width = 100% height = 380 src = "https://dribbble.com/shots/6577029-Paddle-bat/attachments/6577029-Paddle-bat?mode=media">
+<img align = "center" alt = "coding" width = 100% height = 380 src = "https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif">
 <h1 align="center">Hi 👋, I'm Het Patel</h1>
 <h3 align="center">AI is the future, and I'm helping to build it.</h3>
 
