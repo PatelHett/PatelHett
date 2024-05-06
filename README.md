@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 <img align = "center" alt = "coding" width = 100% height = 380 src = "https://cdn.dribbble.com/users/99875/screenshots/6577029/2019-06-03_paddle-ball.gif">
 <h1 align="center">Hi 👋, I'm Het Patel</h1>
-<h3 align="center">Coding is the future, and I'm helping to build it.</h3>
+<h3 align="center">Shaping the future, one line of code at a time.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=PatelHett&label=Profile%20views&color=0e75b6&style=flat" alt="Het Patel" /> </p>
 
