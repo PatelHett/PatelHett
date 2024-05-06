@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Het Patel</h1>
 <h3 align="center">AI is the future, and I'm helping to build it.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelhett&label=Profile%20views&color=0e75b6&style=flat" alt="Het Patel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=PatelHett&label=Profile%20views&color=0e75b6&style=flat" alt="Het Patel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/HetPatel719" target="blank"><img src="https://img.shields.io/twitter/follow/HetPatel719?logo=twitter&style=for-the-badge" alt="Het Patel" /></a> </p>
 
@@ -53,9 +53,9 @@ Here are some ideas to get you started:
 
 ## Github Stats:
 
-<p><img align="left" src="[![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=patelhett)](https://github.com/patelhett/github-readme-stats)" alt="Het Patel" /></p>
+<p><img align="left" src="[![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatelHett)](https://github.com/PatelHett/github-readme-stats)" alt="Het Patel" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=patelhett&show_icons=true&locale=en" alt="Het Patel" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PatelHett&show_icons=true&locale=en" alt="Het Patel" /></p>
 
 <p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PatelHett)](https://git.io/streak-stats)" alt="Het Patel" /></p>
 
