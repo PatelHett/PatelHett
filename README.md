@@ -34,8 +34,7 @@ Here are some ideas to get you started:
 
 ## Connect with me:
 <p align="left">
-<a href="https://twitter.com/HetPatel719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Het Patel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/hetp719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Het Patel" height="30" width="40" /></a>
+<a href="https://twitter.com/HetPatel719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Het Patel" height="30" width="40" /></a><a href="https://linkedin.com/in/hetp719" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Het Patel" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/HettPatel/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="Het Patel" height="30" width="40" /></a>
 </p>
 
