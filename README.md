@@ -53,11 +53,10 @@ Here are some ideas to get you started:
 
 ## Github Stats:
 
-<p><img align="left" src="[![Het's GitHub stats](https://github-readme-stats.vercel.app/api?username=PatelHett)](https://github.com/PatelHett/github-readme-stats)" alt="Het Patel" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PatelHett&show_icons=true&locale=en&layout=compact" alt="Het Patel" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PatelHett&show_icons=true&locale=en" alt="Het Patel" /></p>
 
 <p><img align="center" src="[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=PatelHett)](https://git.io/streak-stats)" alt="Het Patel" /></p>
-
 
 
