@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Het Patel</h1>
 <h3 align="center">AI is the future, and I'm helping to build it.</h3>
 
-<p align="left"> <img src="![](https://komarev.com/ghpvc/?username=patelhett)" alt="Het Patel" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=patelhett&label=Profile%20views&color=0e75b6&style=flat" alt="Het Patel" /> </p>
 
 <p align="left"> <a href="https://twitter.com/HetPatel719" target="blank"><img src="https://img.shields.io/twitter/follow/HetPatel719?logo=twitter&style=for-the-badge" alt="Het Patel" /></a> </p>
 
