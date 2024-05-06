@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=PatelHett&show_icons=true&locale=en&layout=compact" alt="Het Patel" /></p>
 
-<<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sakhi29&show_icons=true&locale=en" alt="sakhi29" /></p>
+<<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=PatelHett&show_icons=true&locale=en" alt="sakhi29" /></p>
 
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=PatelHett" alt="GitHub Streak" /></a>
 
